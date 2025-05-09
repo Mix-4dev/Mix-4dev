@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Node JS backend developer<br>I love Linux world & Docker<br>Demystify about jargons is a passion for me 
+I'm Node JS backend developer<br>I love python & Docker &Linux world<br>Demystify about jargons is a passion for me 
 
 
 ## 🌐 Socials:
