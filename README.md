@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Node.js Backend Engineer<br>Got an obsession with C++, Docker & Linux<br>Demystify About Jargons is a passion for me<br>Work ethic eliminates fear
+Work ethic eliminates fear<br>I'm Node.js Backend Engineer<br>Got an obsession with C#, Docker & Linux<br>Demystify About Jargons is a passion for me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/global_mix_offical/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-nowar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedmostafanowar@gmail.com) 
