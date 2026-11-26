@@ -19,8 +19,10 @@ Demystify About Jargons is a passion for me
 
 **Backend**  
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/entityframeworkcore/entityframeworkcore-original.svg" width="20" height="20" alt="Entity Framework Core icon">
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/csharp/csharp-original.svg" width="20" height="20" alt="C sharp icon for LINQ">
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
